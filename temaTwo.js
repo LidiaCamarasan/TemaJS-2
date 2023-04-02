@@ -7,7 +7,7 @@ for (evenCounter = 0; evenCounter <= 10; evenCounter += 2) {
 }
 console.log("\n\n");
 
-console.log("Exercitiul 2:");
+console.log("Exercitiul 2");
 
 var numbers = [1, -5, 20, -34, 16, 29, 36, -4];
 
